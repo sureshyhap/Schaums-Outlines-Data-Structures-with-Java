@@ -1,5 +1,0 @@
-public interface Point {
-    double amplitude();
-    double distanceTo(Point p);
-    boolean equals(Point p);
-}
